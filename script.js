@@ -421,7 +421,7 @@ function initParticles() {
             position: absolute;
             width: ${Math.random() * 4 + 2}px;
             height: ${Math.random() * 4 + 2}px;
-            background: rgba(99, 102, 241, ${Math.random() * 0.5 + 0.2});
+            background: rgba(16, 185, 129, ${Math.random() * 0.5 + 0.3});
             border-radius: 50%;
             pointer-events: none;
         `;
@@ -627,6 +627,6 @@ window.addEventListener('load', () => {
 /**
  * Console easter egg
  */
-console.log('%c🚀 Iuni Telecom', 'font-size: 24px; font-weight: bold; color: #6366f1;');
-console.log('%cConectando você ao que realmente importa.', 'font-size: 14px; color: #94a3b8;');
-console.log('%cDesenvolvido com ❤️ para sua empresa de telecomunicações.', 'font-size: 12px; color: #64748b;');
+console.log('%c🚀 Iuni Telecom', 'font-size: 24px; font-weight: bold; color: #10b981;');
+console.log('%cConectando você ao que realmente importa.', 'font-size: 14px; color: #34d399;');
+console.log('%cDesenvolvido com ❤️ para sua empresa de telecomunicações.', 'font-size: 12px; color: #6ee7b7;');
